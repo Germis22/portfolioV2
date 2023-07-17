@@ -36,7 +36,7 @@ const Presentation = () => {
           <AiFillFacebook />
         </a>
       </div>
-      <div className="avatar bg-gradient-to-b from-teal-500 rounded-full mt-10">
+      <div className="avatar justify-center bg-gradient-to-b from-teal-500 rounded-full mt-10">
         <div className="w-80 md:w-96 rounded-full">
           <img src={Perfil} alt="perfil" />
         </div>

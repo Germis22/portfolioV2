@@ -1,4 +1,3 @@
-import { useRef } from "react";
 import Home from "./Home";
 
 const Nav = ({ aboutRef, skillsRef, projectsRef, contactRef }) => {
